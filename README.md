@@ -1,0 +1,3 @@
+# Java_project_collections
+Student Database Project
+The student database project is a system designed to store and manage information related to students in an educational institution. In the system, new students are enrolled, admission details are maintained, and unique identification numbers are assigned. When we add student details and generate unique IDs for each student, the system facilitates the process of enrolment, registration, and coding. Some operations are performed such as storing, deleting, updating, sorting based on various data, and handling exceptions, providing educational institutions with a comprehensive overview of student information to assist in decision-making and academic planning.
